@@ -44,11 +44,11 @@ body {
 
 }
 
-#google {
+.about a {
   transition: 300ms;
   
 }
-#google:hover {
+.about a:hover {
   color: rgb(176, 19, 255);
   font-size: 1.1em;
   
