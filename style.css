@@ -1,3 +1,25 @@
 body {
     background-color: rgb(205, 217, 255);
 }
+
+#hero {
+    display: flex;
+   align-items: center;
+    justify-content: center;
+    gap: 200px;
+}
+
+#name {
+    color: #306F91;
+    font-size: 100px;
+}
+
+#name-container h3 {
+    color: #306F91;
+    font-size: 30px;
+}
+
+.heading {
+    color: #306F91;
+    font-size: 50px;
+}
