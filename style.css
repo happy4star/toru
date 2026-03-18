@@ -17,14 +17,17 @@ body {
 #name-container h3 {
     color: #306F91;
     font-size: 30px;
+    border-bottom: solid 3px;
 }
 
 .heading {
     color: #306F91;
     font-size: 50px;
+    border-bottom: dashed 3px;
+    padding-left: 1em;
 }
 
 p , ul {
   font-size: 20px;
-  padding-left: 3em;
+  padding-left: 10em;
 }
